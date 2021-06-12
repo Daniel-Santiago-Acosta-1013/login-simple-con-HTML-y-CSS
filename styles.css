@@ -13,7 +13,7 @@ body {
     align-items: center;
 }
 
-.from-box {
+.form-box {
     width: 300px;
     padding: 40px;
     background: #161b22;
@@ -21,9 +21,19 @@ body {
 }
 
 .form-title {
-    color: fff;
+    color: #fff;
     text-transform: uppercase;
     font-weight: 500;
 }
 
+
+.form-box input[type="text"],
+.form-box input[type="password"],
+.form-box button[type="submit"] {
+    border: 0;
+    background: none;
+    display: block;
+    margin: 20px auto;
+    padding: 14px 10px; 
+}
 
