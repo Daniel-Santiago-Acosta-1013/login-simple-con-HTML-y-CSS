@@ -3,4 +3,4 @@
   <img src="/screencapture.png" title="hover text">
 </p>
 <p align="center"> Observa el proyecto: </p>
-<p align="center"> proximamente... </p>
+<p align="center"> https://login-basico-con-html-y-css.netlify.app/ </p>
